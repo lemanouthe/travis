@@ -1,1 +1,1 @@
-### travis [![Build Status](https://travis-ci.com/lemanouthe/travis.svg?branch=master)](https://travis-ci.com/lemanouthe/travis)
+### travis [![Build Status](https://travis-ci.com/lemanouthe/travis.svg?branch=master)](https://travis-ci.com/lemanouthe/travis) [![Coverage Status](https://coveralls.io/repos/github/lemanouthe/travis/badge.svg?branch=master)](https://coveralls.io/github/lemanouthe/travis?branch=master)
