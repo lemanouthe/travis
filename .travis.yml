@@ -5,7 +5,7 @@ python:
 env:
     - SECRET_KEY='TEST'
 services:
-    - postgresql
+   - postgresql
 install:
     - pipenv install
 
